@@ -22,6 +22,7 @@ We believe **privacy, scalability, and verifiable computation** are the pillars 
 ## Current Workshops
 
 ### Current
+- [Taipei 2025](./taipei-2025/) - ZK Workshop in Taipei: From Zero to Hero
 - [Singapore 2025](./singapore-2025/) - ZK Workshop in Singapore (February 2025)
 
 ### Past Workshops
