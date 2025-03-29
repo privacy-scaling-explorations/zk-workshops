@@ -10,7 +10,7 @@ Lunch will be provided.
 ## 🗂️ Workshop Repo
 👉 https://github.com/privacy-scaling-explorations/zk-workshops
 
-## 📅 Day 1: ZK Foundations & Circom (Saturday, March 30)
+## 📅 Day 1: ZK Foundations & Circom (Saturday, March 29)
 
 | Time           | Session                                       | Mentor   |
 |----------------|-----------------------------------------------|----------|
@@ -19,7 +19,7 @@ Lunch will be provided.
 | 1:00–2:30 PM   | **Lunch Break**                               |          |
 | 2:30–5:30 PM   | Understanding the Math Behind ZKPs            | Oskar    |
 
-## 📅 Day 2: Modern ZK Applications (Sunday, March 31)
+## 📅 Day 2: Modern ZK Applications (Sunday, March 30)
 
 | Time           | Session                                                | Mentor(s)                 |
 |----------------|--------------------------------------------------------|---------------------------|
