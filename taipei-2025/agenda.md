@@ -25,7 +25,7 @@ Lunch will be provided.
 |----------------|--------------------------------------------------------|---------------------------|
 | 10:00–12:00 PM | PlonK, GKR, and Beyond                                  | Ying Tong                 |
 | 12:00–1:00 PM  | **Lunch Break**                                         |                           |
-| 1:00–3:00 PM   | Real-World zkApps: zkEmail, JWTs, Registries & Breakouts| Ayush, Kimi, Vivian       |
+| 1:00–3:00 PM   | Real-World zkApps: zkEmail, Registries & Breakouts| Ayush, Kimi, Vivian       |
 | 3:30–5:30 PM   | Resume Reviews, Project Demos & Next Steps              | All Mentors               |
 
 ## ✅ Confirmed Mentors
